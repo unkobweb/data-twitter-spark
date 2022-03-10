@@ -15,4 +15,4 @@ Lancez le script
 
     node index.js
 
-Lancez enfin spark qui se connectera sur le socket sur le port 9999 et lancera la récupération de tweets
+Lancez enfin spark qui se connectera sur le socket sur le port 9999 et lancera la récupération de tweets.
